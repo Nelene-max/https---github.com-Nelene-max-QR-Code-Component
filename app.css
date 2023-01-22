@@ -1,0 +1,19 @@
+html {
+    box-sizing:border-box;
+    font-family: "outfit";
+}
+
+body {
+    background-color: lightgray;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    min-height:100vh;
+}
+
+.text h1 {
+    font-family: 'outfit' ;
+    font-weight: 700;
+    font-size: 30px;
+    color:darkblue;
+}
